@@ -5,25 +5,32 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 
 | Start Date | End Date | 
 | --- | ---|
-| 03 Jun 21 | Update |
+| **03 Jun 21** | Update |
 
 ---
 
 ### Day 1: 
-**Today's Progress** : 
+**Today's Progress** : Started learning Cpp and learned about Loops and modifiers in Cpp.
 **Link to work and resources** : 
+1. [Day1](https://github.com/suubh/100-Days-of-Code/Day-1)
+2. [GFG](https://practice.geeksforgeeks.org/batch/fork-cpp)
 
 ---
 
 ### Day 2: 
-**Today's Progress** : 
-**Link to work and resources** : 
+**Today's Progress** : Practiced some basic questions on Recursion,Dynamic Programming.
+**Link to work and resources** : [Day2](https://github.com/suubh/100-Days-of-Code/Day-2)
 
 ---
 
 ### Day 3: 
-**Today's Progress** : 
+**Today's Progress** : Learned about Bit Manipulation.
 **Link to work and resources** : 
+1. [Day3](https://github.com/suubh/100-Days-of-Code/Day-3)
+2. [Sum of Two Numbers Using XOR](https://github.com/suubh/100-Days-of-Code/Day-3/sum-of-two-num-using-XOR.cpp)
+3. [Swap Odd Even Bits](https://github.com/suubh/100-Days-of-Code/Day-3/swap-odd-even-bits.cpp)
+4. [Count Total Number of Set Bits/Find Ones](https://github.com/suubh/100-Days-of-Code/Day-3/amazon_interview.cpp)
+
 
 ---
 
