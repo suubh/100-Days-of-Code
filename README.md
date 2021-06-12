@@ -52,35 +52,35 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 
 ---
 
-### ⭐Day 6 
+### 🚩Day 6 
 **Today's Progress** : Worked on a Client Web Dev Project . Practiced Array of String.
 
 **Link to work and resources** : [Day6](https://github.com/suubh/100-Days-of-Code/blob/main/Day-6/array-string.cpp)
 
 ---
 
-### ⭐Day 7 
+### 🚩Day 7 
 **Today's Progress** : Worked on a Client Web Dev Project .Practiced one question (Based on Subsequence)
 
 **Link to work and resources** : [Even Subsets](https://github.com/suubh/100-Days-of-Code/blob/main/Day-7/Even-Subsets.cpp)
 
 ---
 
-### ⭐Day 8 
+### 🚩Day 8 
 **Today's Progress** : Worked on a Client Web Dev Project . Practiced one question (Based on Strings)
 
 **Link to work and resources** : [Pattern Matcher](https://github.com/suubh/100-Days-of-Code/blob/main/Day-8/pattern_matcher.cpp)
 
 ---
 
-### ⭐Day 9 
+### 🚩Day 9 
 **Today's Progress** : Took the AngelList assesment test.Practiced one question.
 
 **Link to work and resources** : [Day9](https://github.com/suubh/100-Days-of-Code/tree/main/Day-9)
 
 ---
 
-### ⭐Day 10 
+### 🚩Day 10 
 **Today's Progress** : Solved some problem and started this README as a Log for 100 Days.
 
 **Link to work and resources** : [GFG](https://practice.geeksforgeeks.org/batch/fork-cpp)
