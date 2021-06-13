@@ -76,7 +76,9 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 ### 🚩Day 9 
 **Today's Progress** : Took the AngelList assesment test.Practiced one question.
 
-**Link to work and resources** : [Day9](https://github.com/suubh/100-Days-of-Code/tree/main/Day-9)
+**Link to work and resources** : 
+- [Day9](https://github.com/suubh/100-Days-of-Code/tree/main/Day-9)
+- [TCS NQT](https://github.com/suubh/100-Days-of-Code/blob/main/Day-9/TCS-NQT-practice.cpp)
 
 ---
 
@@ -86,4 +88,12 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 **Link to work and resources** : [GFG](https://practice.geeksforgeeks.org/batch/fork-cpp)
 
 ---
+
+### 🚩Day 11 
+**Today's Progress** : Solved some Quadraples problems.
+
+**Link to work and resources** : 
+- [GFG](https://practice.geeksforgeeks.org/batch/fork-cpp)
+- [Maximum product quadruple (Sub-sequence of size 4) in array](https://github.com/suubh/100-Days-of-Code/blob/main/Day-9/TCS-NQT-PraciceB.cpp)
+
 
