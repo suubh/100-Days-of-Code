@@ -94,6 +94,6 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 
 **Link to work and resources** : 
 - [GFG](https://practice.geeksforgeeks.org/batch/fork-cpp)
-- [Maximum product quadruple (Sub-sequence of size 4) in array](https://github.com/suubh/100-Days-of-Code/blob/main/Day-9/TCS-NQT-PraciceB.cpp)
+- [Maximum product quadruple (Sub-sequence of size 4) in array](https://github.com/suubh/100-Days-of-Code/blob/main/Day-11/TCS-NQT-PraciceB.cpp)
 
 
