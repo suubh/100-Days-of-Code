@@ -96,4 +96,23 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 - [GFG](https://practice.geeksforgeeks.org/batch/fork-cpp)
 - [Maximum product quadruple (Sub-sequence of size 4) in array](https://github.com/suubh/100-Days-of-Code/blob/main/Day-11/TCS-NQT-PraciceB.cpp)
 
+---
+
+### 🚩Day 12 
+**Today's Progress** : Solved some problem based on stacks.
+
+**Link to work and resources** : [Pattern Matcher(Stack)](https://github.com/suubh/100-Days-of-Code/blob/main/Day-12/Pattern_Match(Using-Stack).cpp)
+
+---
+
+### 🚩Day 13 
+**Today's Progress** : Learned about Object Oriented Programming in C++ and practiced some concepts.
+
+**Link to work and resources** : 
+- [OOP Classes](https://github.com/suubh/100-Days-of-Code/blob/main/Day-13/OOP.cpp)
+- [OOP Variables](https://github.com/suubh/100-Days-of-Code/blob/main/Day-13/OOP-Variables.cpp)
+- [OOP Constructors](https://github.com/suubh/100-Days-of-Code/blob/main/Day-13/OOP-Constructors.cpp)
+- [thenewboston](https://www.youtube.com/watch?v=ABRP_5RYhqU&ab_channel=thenewbostonthenewboston)
+
+
 
