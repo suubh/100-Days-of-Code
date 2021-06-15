@@ -111,7 +111,7 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 **Link to work and resources** : 
 - [OOP Classes](https://github.com/suubh/100-Days-of-Code/blob/main/Day-13/OOP.cpp)
 - [OOP Variables](https://github.com/suubh/100-Days-of-Code/blob/main/Day-13/OOP-Variables.cpp)
-- [OOP Constructors](https://github.com/suubh/100-Days-of-Code/blob/main/Day-13/OOP-Constructors.cpp)
+- [OOP Constructors](https://github.com/suubh/100-Days-of-Code/blob/main/Day-13/OOP-Constructor.cpp)
 - [thenewboston](https://www.youtube.com/watch?v=ABRP_5RYhqU&ab_channel=thenewbostonthenewboston)
 
 
