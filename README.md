@@ -114,5 +114,15 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 - [OOP Constructors](https://github.com/suubh/100-Days-of-Code/blob/main/Day-13/OOP-Constructor.cpp)
 - [thenewboston](https://www.youtube.com/watch?v=ABRP_5RYhqU&ab_channel=thenewbostonthenewboston)
 
+---
+
+### 🚩Day 14 
+**Today's Progress** : Continued with Object Oriented Programming in C++ .
+
+**Link to work and resources** : 
+- [OOP this Pointer](https://github.com/suubh/100-Days-of-Code/blob/main/Day-14/OOP-this.cpp)
+- [OOP pointers](https://github.com/suubh/100-Days-of-Code/blob/main/Day-14/OOP-function-chain.cpp)
+- [GFG Questions](https://practice.geeksforgeeks.org/tracks/module-3-pointers-and-objects%20/?batchId=113)
+
 
 
