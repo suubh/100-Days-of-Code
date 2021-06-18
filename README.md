@@ -142,6 +142,8 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 
 **Link to work and resources** : 
 - [GFG JOB-A-THON](https://github.com/suubh/100-Days-of-Code/blob/main/Day-16/GFG_JOB-A-THON.cpp)
+- [Pass by Pointers](https://github.com/suubh/100-Days-of-Code/blob/main/Day-16/pass_by_pointers.cpp)
+- [Pass by Reference](https://github.com/suubh/100-Days-of-Code/blob/main/Day-16/pass_by_reference.cpp)
 
 
 
