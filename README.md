@@ -124,5 +124,24 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 - [OOP pointers](https://github.com/suubh/100-Days-of-Code/blob/main/Day-14/OOP-function-chain.cpp)
 - [GFG Questions](https://practice.geeksforgeeks.org/tracks/module-3-pointers-and-objects%20/?batchId=113)
 
+---
+
+### 🚩Day 15 
+**Today's Progress** : Smart Pointers and Garbage Collection in C++.
+
+**Link to work and resources** : 
+- [Garbage Collection](https://github.com/suubh/100-Days-of-Code/blob/main/Day-15/smart_pointers.cpp)
+- [Smart Pointer](https://github.com/suubh/100-Days-of-Code/blob/main/Day-15/smart_pointers_intro.cpp)
+- [Unique Pointer `unique_ptr<class name> obj(new class name(attrib))`](https://github.com/suubh/100-Days-of-Code/blob/main/Day-15/unique_ptr.cpp)
+- [Shared Pointer `shared_ptr<class name> obj(new class name(attrib))`](https://github.com/suubh/100-Days-of-Code/blob/main/Day-15/shared_ptr.cpp)
+
+---
+
+### 🚩Day 16 
+**Today's Progress** : Solved some problems in GFG.
+
+**Link to work and resources** : 
+- [GFG JOB-A-THON](https://github.com/suubh/100-Days-of-Code/blob/main/Day-16/GFG_JOB-A-THON.cpp)
+
 
 
