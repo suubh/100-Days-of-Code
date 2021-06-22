@@ -26,4 +26,9 @@ int main(){
 	char x=*(str+1);
 	char y=str[1];
 	cout << x <<" "<< y << endl;
+
+	//NULL POINTERS
+	int *pointer1 = 0;
+	int *pointer2 = NULL;
+	
 }
