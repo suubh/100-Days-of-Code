@@ -5,7 +5,7 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 
 | Start Date | End Date | 
 | --- | ---|
-| **03 Jun 21** | Update |
+| **03 Jun 21** | **11 Sept 21** |
 
 ---
 
@@ -157,5 +157,29 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 - [Pass by Reference](https://github.com/suubh/100-Days-of-Code/blob/main/Day-17/pass_by_reference.cpp)
 - [Pointers in C++](https://github.com/suubh/100-Days-of-Code/blob/main/Day-17/pointers_basics.cpp)
 
+---
 
+### 🚩Day 18
+**Today's Progress** : Memory allocation and deallocation in C++ using `new` and `delete`.
+
+**Link to work and resources** : 
+- [new](https://github.com/suubh/100-Days-of-Code/blob/main/Day-18/new.cpp)
+- [delete](https://github.com/suubh/100-Days-of-Code/blob/main/Day-18/delete.cpp)
+
+
+---
+
+### 🚩Day 19 
+**Today's Progress** : Structure in C++
+
+**Link to work and resources** : 
+- [Struct](https://github.com/suubh/100-Days-of-Code/blob/main/Day-19/structure.cpp)
+
+
+---
+
+### 🚩Day 20 
+**Today's Progress** : 
+
+**Link to work and resources** : 
 
