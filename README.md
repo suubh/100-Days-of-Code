@@ -173,12 +173,25 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 
 **Link to work and resources** : 
 - [Struct](https://github.com/suubh/100-Days-of-Code/blob/main/Day-19/structure.cpp)
+- [GFG](https://practice.geeksforgeeks.org/batch/fork-cpp)
 
 
 ---
 
 ### 🚩Day 20 
-**Today's Progress** : 
+**Today's Progress** : New keyword and New operator.
 
 **Link to work and resources** : 
+- [new-keyword](https://github.com/suubh/100-Days-of-Code/blob/main/Day-20/new-keyword.cpp)
+- [new-operator](https://github.com/suubh/100-Days-of-Code/blob/main/Day-20/new-operator.cpp)
+
+---
+
+### 🚩Day 21 
+**Today's Progress** : Linked List (Structure)
+
+**Link to work and resources** : 
+- [Linked List](https://github.com/suubh/100-Days-of-Code/blob/main/Day-21/linked-list.cpp)
+
+
 
