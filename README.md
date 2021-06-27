@@ -9,7 +9,7 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 
 
 
-| --- | --- | --- |
+
 | <a href="https://auth.geeksforgeeks.org/user/alreadytaken/practice/">
     <img src="https://img.shields.io/badge/-GeeksForGeeks-222222?style=flat-square&logo=geeksforgeeks&logoColor=white">
  </a> | <a href="">
@@ -17,7 +17,7 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
   </a> | <a href="">
     <img src="https://img.shields.io/badge/-LeetCode-222222?style=flat-square&logo=leetcode&logoColor=white">
   </a> |
-| --- | --- | --- |
+
 
 
 ---
