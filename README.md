@@ -7,17 +7,18 @@ These 100 days are my daily learning experience of C++ , DSA and Problem Solving
 | --- | ---|
 | **03 Jun 21** | **11 Sept 21** |
 
-<a href="https://auth.geeksforgeeks.org/user/alreadytaken/practice/">
+
+
+| --- | --- | --- |
+| <a href="https://auth.geeksforgeeks.org/user/alreadytaken/practice/">
     <img src="https://img.shields.io/badge/-GeeksForGeeks-222222?style=flat-square&logo=geeksforgeeks&logoColor=white">
-  </a>
-  
-  <a href="">
+ </a> | <a href="">
     <img src="https://img.shields.io/badge/-Hackerrank-222222?style=flat-square&logo=hackerrank&logoColor=white">
-  </a>
-  
-  <a href="">
+  </a> | <a href="">
     <img src="https://img.shields.io/badge/-LeetCode-222222?style=flat-square&logo=leetcode&logoColor=white">
-  </a>
+  </a> |
+| --- | --- | --- |
+
 
 ---
 
