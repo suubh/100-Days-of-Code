@@ -5,7 +5,6 @@ struct Node
 	int data;
 	Node *next;
 };
-
 Node *insert(int data,Node *head){
 	Node *temp = new Node();
 	temp->data = data;
@@ -22,19 +21,6 @@ Node *insert(int data,Node *head){
 }
 
 //-------------------RECURSION-----------------------//
-void reverse(Node *l){
-	if(l->next == NULL){
-		head = l;
-		return;
-	}
-	reverse(l->next); 
-	Node *temp = l->next;
-	temp ->next = l;
-	l->next = NULL;
-
-}
-//-------------------RECURSION-----------------------//
-
 void print(Node *l){
 	if(l == NULL){
 		return;
@@ -42,7 +28,13 @@ void print(Node *l){
 	cout << l->data << " ";
 	print(l->next);
 }
-
+void printReverse(Node *l){
+	if(l==NULL){
+		return;
+	}
+	printReverse(l->next);
+	cout << l->data <<" ";
+}
 
 int main(){
 	Node *head = NULL;	//Local
@@ -51,9 +43,7 @@ int main(){
 	head = insert(8,head);
 	head = insert(9,head);
 	print(head);
-	
-	reverse(head);
 	cout << endl;
-	print(head);
+	printReverse(head);
 	return 0;
 }
